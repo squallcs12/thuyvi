@@ -19,10 +19,6 @@ body {
   text-align: center;
 }
 
-.face {
-  height: 430px;
-}
-
 .word {
   border: 2px solid #fff;
   border-left: none;
@@ -104,10 +100,9 @@ body {
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00f2fc', endColorstr='#0085a2',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
 }
 
-/* cards **/
-.card-a .face{
-  background: url('images/a.png') center;
-  background-size: cover;
+.face {  
+  background-size: 250px 285px;
+  background-position: center;
   width: 250px;
   height: 285px;
   margin: auto;
@@ -115,7 +110,11 @@ body {
   margin-bottom: 75px;
 }
 
-.card-b {
-  background: url('images/b.png') top center;
-  background-size: cover;
+/* cards **/
+.card-a .face {
+  background-image: url('images/a.png');
+}
+
+.card-b .face{
+  background-image: url('images/b.png');
 }
