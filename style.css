@@ -103,3 +103,19 @@ body {
   background: radial-gradient(ellipse at center,  #00f2fc 0%,#00a5bc 50%,#0085a2 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00f2fc', endColorstr='#0085a2',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
 }
+
+/* cards **/
+.card-a .face{
+  background: url('images/a.png') center;
+  background-size: cover;
+  width: 250px;
+  height: 285px;
+  margin: auto;
+  margin-top: 70px;
+  margin-bottom: 75px;
+}
+
+.card-b {
+  background: url('images/b.png') top center;
+  background-size: cover;
+}
