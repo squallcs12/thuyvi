@@ -115,6 +115,102 @@ body {
   background-image: url('images/a.png');
 }
 
-.card-b .face{
+.card-b .face {
   background-image: url('images/b.png');
+}
+
+.card-c .face {
+  background-image: url('images/c.png');
+}
+
+.card-d .face {
+  background-image: url('images/d.png');
+}
+
+.card-e .face {
+  background-image: url('images/e.png');
+}
+
+.card-f .face {
+  background-image: url('images/f.png');
+}
+
+.card-g .face {
+  background-image: url('images/g.png');
+}
+
+.card-h .face {
+  background-image: url('images/h.png');
+}
+
+.card-i .face {
+  background-image: url('images/i.png');
+}
+
+.card-j .face {
+  background-image: url('images/j.png');
+}
+
+.card-k .face {
+  background-image: url('images/k.png');
+}
+
+.card-l .face {
+  background-image: url('images/l.png');
+}
+
+.card-m .face {
+  background-image: url('images/m.png');
+}
+
+.card-n .face {
+  background-image: url('images/n.png');
+}
+
+.card-o .face {
+  background-image: url('images/o.png');
+}
+
+.card-p .face {
+  background-image: url('images/p.png');
+}
+
+.card-q .face {
+  background-image: url('images/q.png');
+}
+
+.card-r .face {
+  background-image: url('images/r.png');
+}
+
+.card-s .face {
+  background-image: url('images/s.png');
+}
+
+.card-t .face {
+  background-image: url('images/t.png');
+}
+
+.card-u .face {
+  background-image: url('images/u.png');
+}
+
+.card-v .face {
+  background-image: url('images/v.png');
+}
+
+.card-w .face {
+  background-image: url('images/w.png');
+}
+
+.card-x .face {
+  background-image: url('images/x.png');
+}
+
+.card-y .face {
+  background-image: url('images/y.png');
+}
+
+.card-z .face {
+  background-image: url('images/z.png');
 }
